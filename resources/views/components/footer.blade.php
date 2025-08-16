@@ -1,4 +1,4 @@
-<footer class="py-3 my-4 fixed-bottom" data-landmark-index="3">
+<footer class="py-3 my-4" data-landmark-index="3">
     <ul class="nav justify-content-center border-bottom pb-3 mb-3" role="navigation" data-landmark-guessed=""
         data-landmark-index="4">
         <li class="nav-item"><a href="#" class="nav-link px-2 text-body-secondary">Home</a></li>

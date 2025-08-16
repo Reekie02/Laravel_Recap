@@ -35,6 +35,13 @@
                             </li>
                         </ul>
                     </li>
+
+                    <li class="nav-item">
+                        <a href="{{ route('pokemons.create') }}" class="nav-link">Crea</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="{{ route('pokemons.store') }}" class="nav-link"></a>
+                    </li>
                 @endguest
             </ul>
         </div>

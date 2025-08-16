@@ -1,0 +1,444 @@
+{
+    "bulbasaur": {
+        "gen": 1,
+        "nature": "Modest",
+        "item": "Eviolite",
+        "ability": "Overgrow",
+        "moveset": [
+            "Sludge Bomb",
+            "Giga Drain",
+            "Sleep Powder",
+            "Leech Seed"
+        ]
+    },
+    "ivysaur": {
+        "gen": 1,
+        "nature": "Bold",
+        "item": "Eviolite",
+        "ability": "Overgrow",
+        "moveset": [
+            "Sludge Bomb",
+            "Giga Drain",
+            "Sleep Powder",
+            "Leech Seed"
+        ]
+    },
+    "venusaur": {
+        "gen": 1,
+        "nature": "Timid",
+        "item": "Black Sludge",
+        "ability": "Overgrow",
+        "moveset": [
+            "Sleep Powder",
+            "Giga Drain",
+            "Sludge Bomb",
+            "Growth"
+        ]
+    },
+    "charmander": {
+        "gen": 1,
+        "nature": "Timid",
+        "item": "Eviolite",
+        "ability": "Blaze",
+        "moveset": [
+            "Flamethrower",
+            "Dragon Pulse",
+            "Sunny Day",
+            "Solar Beam"
+        ]
+    },
+    "charmeleon": {
+        "gen": 1,
+        "nature": "Timid",
+        "item": "Eviolite",
+        "ability": "Blaze",
+        "moveset": [
+            "Flamethrower",
+            "Dragon Pulse",
+            "Sunny Day",
+            "Solar Beam"
+        ]
+    },
+    "charizard": {
+        "gen": 1,
+        "nature": "Timid",
+        "item": "Leftovers",
+        "ability": "Blaze",
+        "moveset": [
+            "Flamethrower",
+            "Dragon Pulse",
+            "Roost",
+            "Air Slash"
+        ]
+    },
+    "squirtle": {
+        "gen": 1,
+        "nature": "Bold",
+        "item": "Eviolite",
+        "ability": "Torrent",
+        "moveset": [
+            "Scald",
+            "Rapid Spin",
+            "Toxic",
+            "Ice Beam"
+        ]
+    },
+    "wartortle": {
+        "gen": 1,
+        "nature": "Bold",
+        "item": "Eviolite",
+        "ability": "Torrent",
+        "moveset": [
+            "Scald",
+            "Rapid Spin",
+            "Haze",
+            "Ice Beam"
+        ]
+    },
+    "blastoise": {
+        "gen": 1,
+        "nature": "Bold",
+        "item": "Leftovers",
+        "ability": "Torrent",
+        "moveset": [
+            "Scald",
+            "Rapid Spin",
+            "Toxic",
+            "Ice Beam"
+        ]
+    },
+    "caterpie": {
+        "gen": 1,
+        "nature": "Jolly",
+        "item": "Berry Juice",
+        "ability": "Shield Dust",
+        "moveset": [
+            "Bug Bite",
+            "String Shot"
+        ]
+    },
+    "chikorita": {
+        "gen": 2,
+        "nature": "Bold",
+        "item": "Eviolite",
+        "ability": "Overgrow",
+        "moveset": [
+            "Giga Drain",
+            "Aromatherapy",
+            "Leech Seed",
+            "Synthesis"
+        ]
+    },
+    "bayleef": {
+        "gen": 2,
+        "nature": "Bold",
+        "item": "Eviolite",
+        "ability": "Overgrow",
+        "moveset": [
+            "Giga Drain",
+            "Aromatherapy",
+            "Leech Seed",
+            "Synthesis"
+        ]
+    },
+    "meganium": {
+        "gen": 2,
+        "nature": "Bold",
+        "item": "Leftovers",
+        "ability": "Overgrow",
+        "moveset": [
+            "Giga Drain",
+            "Leech Seed",
+            "Aromatherapy",
+            "Synthesis"
+        ]
+    },
+    "cyndaquil": {
+        "gen": 2,
+        "nature": "Timid",
+        "item": "Eviolite",
+        "ability": "Blaze",
+        "moveset": [
+            "Flamethrower",
+            "Hidden Power Grass",
+            "Sunny Day",
+            "Solar Beam"
+        ]
+    },
+    "quilava": {
+        "gen": 2,
+        "nature": "Timid",
+        "item": "Eviolite",
+        "ability": "Blaze",
+        "moveset": [
+            "Flamethrower",
+            "Hidden Power Grass",
+            "Sunny Day",
+            "Solar Beam"
+        ]
+    },
+    "typhlosion": {
+        "gen": 2,
+        "nature": "Timid",
+        "item": "Choice Scarf",
+        "ability": "Blaze",
+        "moveset": [
+            "Eruption",
+            "Flamethrower",
+            "Focus Blast",
+            "Hidden Power Grass"
+        ]
+    },
+    "totodile": {
+        "gen": 2,
+        "nature": "Jolly",
+        "item": "Life Orb",
+        "ability": "Torrent",
+        "moveset": [
+            "Aqua Jet",
+            "Ice Punch",
+            "Waterfall",
+            "Crunch"
+        ]
+    },
+    "croconaw": {
+        "gen": 2,
+        "nature": "Adamant",
+        "item": "Eviolite",
+        "ability": "Torrent",
+        "moveset": [
+            "Aqua Jet",
+            "Ice Punch",
+            "Waterfall",
+            "Crunch"
+        ]
+    },
+    "feraligatr": {
+        "gen": 2,
+        "nature": "Jolly",
+        "item": "Life Orb",
+        "ability": "Torrent",
+        "moveset": [
+            "Dragon Dance",
+            "Waterfall",
+            "Ice Punch",
+            "Crunch"
+        ]
+    },
+    "treecko": {
+        "gen": 3,
+        "nature": "Timid",
+        "item": "Eviolite",
+        "ability": "Overgrow",
+        "moveset": [
+            "Giga Drain",
+            "Energy Ball",
+            "Hidden Power Fire",
+            "Protect"
+        ]
+    },
+    "grovyle": {
+        "gen": 3,
+        "nature": "Timid",
+        "item": "Eviolite",
+        "ability": "Overgrow",
+        "moveset": [
+            "Giga Drain",
+            "Energy Ball",
+            "Hidden Power Fire",
+            "Protect"
+        ]
+    },
+    "sceptile": {
+        "gen": 3,
+        "nature": "Timid",
+        "item": "Life Orb",
+        "ability": "Overgrow",
+        "moveset": [
+            "Leaf Storm",
+            "Dragon Pulse",
+            "Focus Blast",
+            "Hidden Power Fire"
+        ]
+    },
+    "torchic": {
+        "gen": 3,
+        "nature": "Timid",
+        "item": "Eviolite",
+        "ability": "Speed Boost",
+        "moveset": [
+            "Protect",
+            "Baton Pass",
+            "Fire Blast",
+            "Hidden Power Grass"
+        ]
+    },
+    "combusken": {
+        "gen": 3,
+        "nature": "Timid",
+        "item": "Eviolite",
+        "ability": "Speed Boost",
+        "moveset": [
+            "Protect",
+            "Baton Pass",
+            "Fire Blast",
+            "Hidden Power Grass"
+        ]
+    },
+    "blaziken": {
+        "gen": 3,
+        "nature": "Adamant",
+        "item": "Life Orb",
+        "ability": "Blaze",
+        "moveset": [
+            "Swords Dance",
+            "Flare Blitz",
+            "High Jump Kick",
+            "Stone Edge"
+        ]
+    },
+    "mudkip": {
+        "gen": 3,
+        "nature": "Adamant",
+        "item": "Eviolite",
+        "ability": "Torrent",
+        "moveset": [
+            "Waterfall",
+            "Earthquake",
+            "Ice Punch",
+            "Superpower"
+        ]
+    },
+    "marshtomp": {
+        "gen": 3,
+        "nature": "Adamant",
+        "item": "Eviolite",
+        "ability": "Torrent",
+        "moveset": [
+            "Waterfall",
+            "Earthquake",
+            "Ice Punch",
+            "Superpower"
+        ]
+    },
+    "swampert": {
+        "gen": 3,
+        "nature": "Relaxed",
+        "item": "Leftovers",
+        "ability": "Torrent",
+        "moveset": [
+            "Stealth Rock",
+            "Earthquake",
+            "Ice Beam",
+            "Roar"
+        ]
+    },
+    "turtwig": {
+        "gen": 4,
+        "nature": "Impish",
+        "item": "Eviolite",
+        "ability": "Overgrow",
+        "moveset": [
+            "Stealth Rock",
+            "Seed Bomb",
+            "Earthquake",
+            "Synthesis"
+        ]
+    },
+    "grotle": {
+        "gen": 4,
+        "nature": "Impish",
+        "item": "Eviolite",
+        "ability": "Overgrow",
+        "moveset": [
+            "Stealth Rock",
+            "Seed Bomb",
+            "Earthquake",
+            "Synthesis"
+        ]
+    },
+    "torterra": {
+        "gen": 4,
+        "nature": "Adamant",
+        "item": "Leftovers",
+        "ability": "Overgrow",
+        "moveset": [
+            "Stealth Rock",
+            "Wood Hammer",
+            "Earthquake",
+            "Synthesis"
+        ]
+    },
+    "chimchar": {
+        "gen": 4,
+        "nature": "Jolly",
+        "item": "Focus Sash",
+        "ability": "Blaze",
+        "moveset": [
+            "Fake Out",
+            "Stealth Rock",
+            "Taunt",
+            "Fire Punch"
+        ]
+    },
+    "monferno": {
+        "gen": 4,
+        "nature": "Jolly",
+        "item": "Eviolite",
+        "ability": "Blaze",
+        "moveset": [
+            "Close Combat",
+            "U-turn",
+            "Overheat",
+            "Stealth Rock"
+        ]
+    },
+    "infernape": {
+        "gen": 4,
+        "nature": "Naive",
+        "item": "Life Orb",
+        "ability": "Blaze",
+        "moveset": [
+            "Close Combat",
+            "Flamethrower",
+            "Grass Knot",
+            "Mach Punch"
+        ]
+    },
+    "piplup": {
+        "gen": 4,
+        "nature": "Modest",
+        "item": "Eviolite",
+        "ability": "Torrent",
+        "moveset": [
+            "Scald",
+            "Ice Beam",
+            "Stealth Rock",
+            "Roar"
+        ]
+    },
+    "prinplup": {
+        "gen": 4,
+        "nature": "Bold",
+        "item": "Eviolite",
+        "ability": "Torrent",
+        "moveset": [
+            "Scald",
+            "Ice Beam",
+            "Stealth Rock",
+            "Roar"
+        ]
+    },
+    "empoleon": {
+        "gen": 4,
+        "nature": "Modest",
+        "item": "Leftovers",
+        "ability": "Torrent",
+        "moveset": [
+            "Scald",
+            "Ice Beam",
+            "Stealth Rock",
+            "Roar"
+        ]
+    }
+}
